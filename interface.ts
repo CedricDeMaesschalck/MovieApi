@@ -1,4 +1,4 @@
-import { Url } from "url";
+
 
 export interface MovieInfo {
   id: number;
@@ -12,7 +12,7 @@ export interface MovieInfo {
 export interface Movie {
   id: string;
   name: string;
-  posterURL: Url;
+  posterURL: URL;
   synopsis: string;
   playtime: number;
   onNetflix: boolean;
