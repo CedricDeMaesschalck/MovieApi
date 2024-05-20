@@ -74,7 +74,7 @@
         {
             "id": "4",
             "name": "Astroid City",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Asteroid_City.jpg?raw=true",
             "synopsis": "In a fictional American desert town circa 1955, a junior stargazer convention and a wild west reenactment are hosted simultaneously, leading to quirky interactions, romantic dalliances, and introspective moments among a colorful ensemble cast.",
             "playtime": 105,
             "onNetflix": true,
