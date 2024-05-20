@@ -1,0 +1,94 @@
+{
+    "movieinfo": [
+        {
+            "id": 1,
+            "director": "Steven Spielberg",
+            "cast": [
+                "Christain bale"
+            ],
+            "wonOscars": true,
+            "letterboxdRating": 3.8
+        },
+        {
+            "id": 2,
+            "director": "Paul King",
+            "cast": [
+                "Ben Wishaw"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 3.8
+        },
+        {
+            "id": 3,
+            "director": "Wong Kar-Wai",
+            "cast": [
+                "Tony Leung Chiu-Wia"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 4.4
+        },
+        {
+            "id": 4,
+            "director": "Wes Anderson",
+            "cast": [
+                "Jason Schartzman"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 3.5
+        },
+        {
+            "id": 5,
+            "director": "Peter Weir",
+            "cast": [
+                "Robin Williams"
+            ],
+            "wonOscars": true,
+            "letterboxdRating": 4.2
+        },
+        {
+            "id": 6,
+            "director": "Christopher Nolan",
+            "cast": [
+                "Hugh Jackman"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 4.2
+        },
+        {
+            "id": 7,
+            "director": "Bong Joon-Ho",
+            "cast": [
+                "Song Kang-Ho"
+            ],
+            "wonOscars": true,
+            "letterboxdRating": 4.6
+        },
+        {
+            "id": 8,
+            "director": "Wes Anderson",
+            "cast": [
+                "Jared Gilman"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 4.0
+        },
+        {
+            "id": 9,
+            "director": "Mike Mitchell",
+            "cast": [
+                "Rob Schneider"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 2.3
+        },
+        {
+            "id": 10,
+            "director": "Jonas Govaerts",
+            "cast": [
+                "Maurice Luijten"
+            ],
+            "wonOscars": false,
+            "letterboxdRating": 3.0
+        }
+    ]
+}
