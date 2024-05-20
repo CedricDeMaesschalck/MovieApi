@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Empire of the sun",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Empire_Of_The_Sun.jpg?raw=true",
             "synopsis": "A young English boy struggles to survive under Japanese occupation during World War II. As he moves from the luxury of his privileged life into the hardships of a war camp, his view of life changes drastically.",
             "playtime": 154,
             "onNetflix": false,
@@ -27,7 +27,7 @@
         {
             "id": "2",
             "name": "paddington",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Paddington.jpeg?raw=true",
             "synopsis": "A young bear from Peru, with a passion for all things British, travels to London in search of a home. Finding himself lost and alone at Paddington Station, he begins to realize that city life is not all he had imagined - until he meets the kindly Brown family.",
             "playtime": 96,
             "onNetflix": true,
@@ -51,7 +51,7 @@
         {
             "id": "3",
             "name": "In the mood for love",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/In_the_mood_for_Love.jpeg?raw=true",
             "synopsis": "In Hong Kong, 1962, a journalist and a secretary from neighboring apartments form a strong bond after they suspect their respective spouses of extra-marital activities. They vow to remain platonic as they draw closer in their shared loneliness.",
             "playtime": 99,
             "onNetflix": false,
@@ -97,7 +97,7 @@
         {
             "id": "5",
             "name": "Dead Poets Society",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Dead_Poets_Society.jpg?raw=true",
             "synopsis": "An English teacher at a conservative academy in Vermont encourages his students to break free from the norms, think for themselves, and seize the day. His unorthodox methods challenge the sensibilities of the school and its students.",
             "playtime": 128,
             "onNetflix": false,
@@ -120,7 +120,7 @@
         {
             "id": "6",
             "name": "The Prestige",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/The_Prestige.jpg?raw=true",
             "synopsis": "Two stage magicians in early 20th century London obsess over creating the best stage illusion, leading them on a life-long battle for supremacy full of obsession, deceit, and jealousy, with dangerous and tragic results.",
             "playtime": 130,
             "onNetflix": true,
@@ -144,7 +144,7 @@
         {
             "id": "7",
             "name": "Parasite",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Parasite.jpg?raw=true",
             "synopsis": "A struggling Korean family schemes to work in a wealthy household by infiltrating the lives of its unsuspecting members in this darkly comedic and profound commentary on class struggle and wealth disparity.",
             "playtime": 133,
             "onNetflix": false,
@@ -168,7 +168,7 @@
         {
             "id": "8",
             "name": "Moonrise Kingdom",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Moonrise_Kingdom.jpg?raw=true",
             "synopsis": "In the summer of 1965 on an island off New England, two twelve-year-olds fall in love, make a secret pact, and run away together into the wilderness. Various factions of the town mobilize to search for them as a violent storm is brewing off-shore.",
             "playtime": 94,
             "onNetflix": false,
@@ -193,7 +193,7 @@
         {
             "id": "9",
             "name": "Deuce Bigalow Male Gigolo",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Deuce.jpg?raw=true",
             "synopsis": "A hapless fish tank cleaner assumes the identity of a gigolo after accidentally wrecking his house. He finds himself catering to the unusual whims of various women, leading to a series of comic misadventures.",
             "playtime": 88,
             "onNetflix": false,
@@ -215,7 +215,7 @@
         {
             "id": "10",
             "name": "Welp",
-            "posterURL": "",
+            "posterURL": "https://github.com/CedricDeMaesschalck/MovieApi/blob/main/images/Welp.jpg?raw=true",
             "synopsis": "A boy scout troop on a weekend in the woods, unaware they are on the hunt by a bloodthirsty werewolf-like creature. As the boys struggle to survive, they uncover disturbing secrets about the forest and their own troop.",
             "playtime": 84,
             "onNetflix": false,
